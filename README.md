@@ -1,2 +1,2 @@
 # elasticompose
-Elasticompose uses Docker Compose to deploy and manage the ELK (Elasticsearch, Logstash, Kibana) stack, offering a scalable logging and monitoring solution. Perfect for streamlined log analysis and visualization.
+Streamlined Docker Compose deployment of the ELK (Elasticsearch, Logstash, Kibana) stack for efficient logging and monitoring solutions.
