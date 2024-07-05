@@ -1,0 +1,15 @@
+#Cluster name
+cluster.name: docker-cluster
+
+# Node name
+node.name: "docker-node"
+
+#Network settings
+network.host: 0.0.0.0
+http.port: 9200
+
+# X-Pack settings (security, monitoring, etc.)
+xpack.security.enabled: true
+
+# Memory settings
+bootstrap.memory_lock: true
