@@ -1,0 +1,1 @@
+FROM docker.elastic.co/logstash/logstash:8.14.2-arm64
