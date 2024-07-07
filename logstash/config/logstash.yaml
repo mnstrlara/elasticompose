@@ -1,0 +1,5 @@
+# Node name
+node.name: "logstash-node"
+
+# Network settings
+http.host: 0.0.0.0
