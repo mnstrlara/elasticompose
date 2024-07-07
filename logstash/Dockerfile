@@ -1,1 +1,1 @@
-FROM docker.elastic.co/logstash/logstash:8.14.2-arm64
+FROM docker.elastic.co/logstash/logstash:${ELASTIC_VERSION}
