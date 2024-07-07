@@ -1,10 +1,10 @@
-#Cluster name
+# Cluster name
 cluster.name: docker-cluster
 
 # Node name
 node.name: "docker-node"
 
-#Network settings
+# Network settings
 network.host: 0.0.0.0
 http.port: 9200
 
