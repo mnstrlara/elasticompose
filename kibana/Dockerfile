@@ -1,1 +1,1 @@
-FROM docker.elastic.co/kibana/kibana:8.14.2-arm64
+FROM docker.elastic.co/kibana/kibana:${ELASTIC_VERSION}
