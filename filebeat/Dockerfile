@@ -1,0 +1,1 @@
+FROM docker.elastic.co/filebeat/filebeat:${ELASTIC_VERSION}
